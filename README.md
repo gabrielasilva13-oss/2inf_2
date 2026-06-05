@@ -1,7 +1,7 @@
 # 2inf_2
 
-equipe 1
-## francisco alexandre 12
-## gabriela maria 13
-## maria lucivania 35
-## maria vitoria freires 36
+EQUIPE 1
+## Francisco Alexandre 12
+## Gabriela Maria 13
+## Maria Lucivania 35
+## Maria Vitória Freires 36
